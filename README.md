@@ -48,9 +48,9 @@ Before installing, ensure your system has the following:
 | :--- | :--- |
 | `<Space> + ee` | Toggle file explorer |
 | `<Ctrl> + \` | Toggle integrated terminal |
-| `<Ctrl> + Shift + p` | Fuzzy find files |
+| `<Ctrl>  + p` | Fuzzy find files |
 | `<Space> + /` | Live grep (search text across project) |
 | `K` | Hover documentation (LSP) |
-| `gd` | Go to definition (LSP) |
-| `<Space> + rn` | Smart rename variable (LSP) |
+| `<Shift> + q` | Close the window/file/split |
 | `<Space> + s` | Save file & auto-format |
+and more including neovim basic commands...
