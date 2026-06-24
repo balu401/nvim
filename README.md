@@ -54,3 +54,6 @@ Before installing, ensure your system has the following:
 | `<Shift> + q` | Close the window/file/split |
 | `<Space> + s` | Save file & auto-format |
 and more including neovim basic commands...
+
+---
+AI Use - I used AI for research, writing the readme file, and sometimes to know how to debugge issue.
